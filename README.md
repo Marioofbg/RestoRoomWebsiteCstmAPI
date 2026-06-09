@@ -24,13 +24,13 @@
 
 Rec Room has shut down on **June 1st, 2026**. RestoRoom is an open-source effort to reverse engineer and reimplement the Rec Room server infrastructure so the community can keep playing after the lights go out.
 
-This is a preservation project, built by fans, for fans.
+This is a preservation project of the website, built by fans, for fans.
 
 ---
 
 ## ⚠️ Status
 
-**This project is in very early development.** This RestoRoom Forkis not usable yet.
+**This project is in very early development.** This RestoRoom Fork not usable yet.
 
 ---
 
